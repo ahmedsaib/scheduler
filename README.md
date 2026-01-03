@@ -1,1 +1,1 @@
-This project simulates five CPU scheduling algorithms (FCFS, SJF, SRTF, Priority, RR) using dynamic arrival times based on the system clock. It visualizes execution via Gantt charts, calculates key metrics (Wait/Turnaround Time, Throughput), and ranks algorithms to identify the most efficient strategy.
+
